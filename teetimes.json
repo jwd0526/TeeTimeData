@@ -1,0 +1,725 @@
+[
+  {
+    "day": "Monday",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-3&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "2:52PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:08PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:56PM",
+        "price": "$25.00",
+        "players": "4 Players"
+      }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-4&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "3:08PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:32PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:40PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:48PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-5&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "1:24PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:32PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:40PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:56PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:20PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:28PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:36PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:52PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:00PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:32PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:40PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-6&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "2:28PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:36PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:44PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:52PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:00PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:08PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:32PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:56PM",
+        "price": "$28.00",
+        "players": "4 Players"
+      }
+    ]
+  },
+  {
+    "day": "Friday",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-7&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "2:12PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:20PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:28PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:36PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:44PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:52PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:00PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:08PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:32PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:40PM",
+        "price": "$43.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:48PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:56PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-8&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "10:20AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "10:28AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "10:36AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "10:44AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:00AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:08AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:16AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:24AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:32AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:40AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:48AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:56AM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:04PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:12PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:20PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:28PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:36PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:44PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:52PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:00PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:08PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:16PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:24PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:36PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:44PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:52PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:00PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:08PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$31.00",
+        "players": "4 Players"
+      }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-9&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "7:48AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "7:56AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:24AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:32AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:40AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:48AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:56AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:04PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:12PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:20PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:28PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:36PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:44PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:52PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:00PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:08PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:16PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:24PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:04PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:12PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:20PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:28PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:44PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:52PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:00PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:08PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      }
+    ]
+  },
+  {
+    "day": "undefined",
+    "url": "https://secure.east.prophetservices.com/DoubleOaksv3/(S(jywtj1thom12odqf0c1tmy5j))/Home/nIndex?CourseId=3&Date=2024-4-10&Time=AnyTime&Player=4&Hole=Any",
+    "teetimes": [
+      {
+        "time": "8:04AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "8:12AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "8:20AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "8:44AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "9:56AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "10:20AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "10:28AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "10:36AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "10:44AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:16AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:24AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:32AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "11:48AM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "12:52PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:00PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:08PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:16PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "1:24PM",
+        "price": "$40.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:04PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:12PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:20PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:28PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:36PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:44PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "2:52PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:00PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:08PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:16PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      },
+      {
+        "time": "3:24PM",
+        "price": "$35.00",
+        "players": "4 Players"
+      }
+    ]
+  }
+]
